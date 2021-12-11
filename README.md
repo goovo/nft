@@ -1,6 +1,8 @@
 
 Zsk NTFs Help artists create NFT works and trade.
 
+The system can run on the ETH/BSC chain.
+
 
 # Install required modules
 
